@@ -1,0 +1,12 @@
+build
+*CACHE*
+dist
+MANIFEST
+*.pyc
+*.egg-info
+*.egg
+*.sqlite3
+docs/_build/
+
+# PyCharm
+.idea
